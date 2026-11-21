@@ -1,0 +1,7 @@
+# Abaikan file sistem / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Jika nanti pakai file konfigurasi lokal terpisah
+config.local.php
